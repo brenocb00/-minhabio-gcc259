@@ -1,13 +1,16 @@
 # Dados Pessoais
 
 **Nome:** Breno Campos Barbosa  
-**Email:** brenocb000@gmail.com  
+**Email:** *brenocb000@gmail.com*  
 **Celular:** (35) 99210-0165  
-**GitHub:** [brenocb00](https://github.com/brenocb00)
+**GitHub:** [*brenocb00*](https://github.com/brenocb00)
 
 
 # Educação
-Graduando em Ciência da Computação na Universidade Federal de Lavras (UFLA) 
+Graduando em Ciência da Computação na Universidade Federal de Lavras (UFLA)  
+!["Logo da Ufla"](https://ufla.br/templates/portalufla/images/ufla-logo.png)
+
+
 
 # Experiência Profissional 
 
@@ -20,7 +23,7 @@ Analista de Sistema Jr na empresa [Expresso Nepomuceno](https://www.expressonepo
 ## Habilidades
 
 * HTML/CSS
-* Javascript
+* JavaScript
 * Node.js
-* Typescript
+* TypeScript
 
